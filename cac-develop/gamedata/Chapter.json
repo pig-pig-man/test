@@ -1,0 +1,5 @@
+{
+    "1":{"name":"第一关","mapId":1,"wave":20,"mstFrequence":100,"monsterId":"1|2|3|4|5","monsterLv":1,"bossId":101,"bossLv":1,"eliteId":201,"eliteLv":1,"eliteWave":10,"missileId":301,"baseSpeed":1000,"missFrequence":250,"missileProb":"300|900|920|950|980|1000"},
+    "2":{"name":"第二关","mapId":2,"wave":25,"mstFrequence":90,"monsterId":"1|2|3|4|5","monsterLv":1,"bossId":101,"bossLv":1,"eliteId":0,"eliteLv":1,"eliteWave":10,"missileId":301,"baseSpeed":1100,"missFrequence":200,"missileProb":"300|900|920|950|980|1000"},
+    "3":{"name":"第三关","mapId":3,"wave":20,"mstFrequence":80,"monsterId":"1|2|3|4|5","monsterLv":1,"bossId":101,"bossLv":1,"eliteId":0,"eliteLv":1,"eliteWave":10,"missileId":301,"baseSpeed":1200,"missFrequence":180,"missileProb":"300|900|920|950|980|1000"}
+}

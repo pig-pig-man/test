@@ -1,0 +1,161 @@
+{
+    "frames": {
+        "img1.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 92,
+                "x": 210,
+                "y": 338
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 92
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img2.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 117,
+                "x": 210,
+                "y": 425
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 117
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img3.png": {
+            "frame": {
+                "h": 429,
+                "idx": 0,
+                "w": 4,
+                "x": 530,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 429,
+                "w": 4
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img5.png": {
+            "frame": {
+                "h": 42,
+                "idx": 0,
+                "w": 209,
+                "x": 0,
+                "y": 406
+            },
+            "sourceSize": {
+                "h": 42,
+                "w": 209
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img7.png": {
+            "frame": {
+                "h": 82,
+                "idx": 0,
+                "w": 66,
+                "x": 303,
+                "y": 338
+            },
+            "sourceSize": {
+                "h": 82,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_xianshi2.png": {
+            "frame": {
+                "h": 337,
+                "idx": 0,
+                "w": 244,
+                "x": 285,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 337,
+                "w": 244
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_xianshi3.png": {
+            "frame": {
+                "h": 334,
+                "idx": 0,
+                "w": 284,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 334,
+                "w": 284
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_pay.png": {
+            "frame": {
+                "h": 70,
+                "idx": 0,
+                "w": 206,
+                "x": 0,
+                "y": 335
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 206
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t1.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 122,
+                "x": 0,
+                "y": 449
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 122
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "gift.png",
+        "prefix": "gift/"
+    }
+}

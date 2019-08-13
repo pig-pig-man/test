@@ -1,0 +1,25 @@
+{
+    "frames": {
+        "Login.jpg": {
+            "frame": {
+                "h": 1024,
+                "idx": 0,
+                "w": 576,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 1024,
+                "w": 576
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "login.png",
+        "prefix": "views/login/"
+    }
+}

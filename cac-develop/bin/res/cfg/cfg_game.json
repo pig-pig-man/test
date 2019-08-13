@@ -1,0 +1,161 @@
+{
+	"gameName": "GameName",
+	"vision": "1.1.3",
+	"baseResUrl": "http://192.168.16.102/mana/",
+	"staticData": {
+		"desc":"staticcfg",
+		"useBaseResUrl": false,
+		"url": "res/cfg/gamedata.data",
+		"type": "json"
+	},
+	"res": {
+		"common": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/comp/comp.json",
+					"type": "atlas"
+				},{
+					"url": "res/atlas/common/common.json",
+					"type": "atlas"
+				},{
+					"url": "res/atlas/fonts/fonts.json",
+					"type": "atlas"
+				},{
+					"url": "res/atlas/cards/cards.json",
+					"type": "atlas"
+				}
+			]
+		},"login": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/login/login.json",
+					"type": "atlas"
+				}]
+		},"menu": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/menu/menu.json",
+					"type": "atlas"
+				}]
+		},"brnn": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/brnn/brnn.json",
+					"type": "atlas"
+				}]
+		},"bcbm": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/bcbm/bcbm.json",
+					"type": "atlas"
+				}]
+		},"brsz": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/brsz/brsz.json",
+					"type": "atlas"
+				}]
+		},"bjl": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/bjl/bjl.json",
+					"type": "atlas"
+				}]
+		},"hhdz": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/hhdz/hhdz.json",
+					"type": "atlas"
+				}]
+		},"jxlw": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/jxlw/jxlw.json",
+					"type": "atlas"
+				}]
+		},"setting": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/setting/setting.json",
+					"type": "atlas"
+				}]
+		},"gift": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/gift/gift.json",
+					"type": "atlas"
+				}]
+		},"feedback": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/feedback/feedback.json",
+					"type": "atlas"
+				}]
+		},"customer": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/customer/customer.json",
+					"type": "atlas"
+				}]
+		},"vip": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/vip/vip.json",
+					"type": "atlas"
+				}]
+		},"activity": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/activity/activity.json",
+					"type": "atlas"
+				}]
+		},"welfare": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/welfare/welfare.json",
+					"type": "atlas"
+				}]
+		},"rank": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/rank/rank.json",
+					"type": "atlas"
+				}]
+		},"shop": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/shop/shop.json",
+					"type": "atlas"
+				}]
+		},"playerinfo": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/playerinfo/playerinfo.json",
+					"type": "atlas"
+				}]
+		},"bank": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/bank/bank.json",
+					"type": "atlas"
+				}]
+		},"debug": {
+			"useBaseResUrl": false,
+			"items": {
+				
+				}		
+		}
+		,"popup": {
+			"useBaseResUrl": false,
+			"items": {
+				
+				}		
+		},"hitmole": {
+			"useBaseResUrl": false,
+			"items": [{
+					"url": "res/atlas/hitmole/hitmole.json",
+					"type": "atlas"
+				}]
+		}
+	}
+}

@@ -1,0 +1,178 @@
+{
+    "frames": {
+        "btn_hiufu1.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 346,
+                "x": 318,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 346
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_hiufu2.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 346,
+                "x": 318,
+                "y": 48
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 346
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_jianyi1.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 346,
+                "x": 318,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 346
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_jianyi2.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 346,
+                "x": 318,
+                "y": 144
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 346
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img1.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 36,
+                "x": 219,
+                "y": 145
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 36
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img2.png": {
+            "frame": {
+                "h": 30,
+                "idx": 0,
+                "w": 28,
+                "x": 256,
+                "y": 145
+            },
+            "sourceSize": {
+                "h": 30,
+                "w": 28
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img3.png": {
+            "frame": {
+                "h": 5,
+                "idx": 0,
+                "w": 889,
+                "x": 0,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 5,
+                "w": 889
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img4.png": {
+            "frame": {
+                "h": 144,
+                "idx": 0,
+                "w": 317,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 144,
+                "w": 317
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_ntwg.png": {
+            "frame": {
+                "h": 35,
+                "idx": 0,
+                "w": 144,
+                "x": 0,
+                "y": 145
+            },
+            "sourceSize": {
+                "h": 35,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "tijiao.png": {
+            "frame": {
+                "h": 34,
+                "idx": 0,
+                "w": 73,
+                "x": 145,
+                "y": 145
+            },
+            "sourceSize": {
+                "h": 34,
+                "w": 73
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "feedback.png",
+        "prefix": "feedback/"
+    }
+}

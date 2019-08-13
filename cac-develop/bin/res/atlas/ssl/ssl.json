@@ -1,0 +1,773 @@
+{
+    "frames": {
+        "bg_zoushitu_down.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 460,
+                "x": 317,
+                "y": 158
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 460
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_10bei.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 142,
+                "x": 394,
+                "y": 391
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_1bei.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 137,
+                "x": 532,
+                "y": 459
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0
+            }
+        },
+        "btn_3A.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 142,
+                "x": 537,
+                "y": 391
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_5bei.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 136,
+                "x": 595,
+                "y": 318
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 0
+            }
+        },
+        "btn_baozi.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 137,
+                "x": 498,
+                "y": 595
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0
+            }
+        },
+        "btn_duizi.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 137,
+                "x": 636,
+                "y": 527
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0
+            }
+        },
+        "btn_jinhua.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 136,
+                "x": 636,
+                "y": 595
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 0
+            }
+        },
+        "btn_jinripaiming.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 142,
+                "x": 732,
+                "y": 318
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_shunjin.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 137,
+                "x": 680,
+                "y": 386
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0
+            }
+        },
+        "btn_shunzi.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 137,
+                "x": 498,
+                "y": 527
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0
+            }
+        },
+        "btn_xuya.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 137,
+                "x": 670,
+                "y": 459
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0
+            }
+        },
+        "btn_zoushitu.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 137,
+                "x": 394,
+                "y": 459
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 142
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0
+            }
+        },
+        "img1.png": {
+            "frame": {
+                "h": 239,
+                "idx": 0,
+                "w": 316,
+                "x": 0,
+                "y": 158
+            },
+            "sourceSize": {
+                "h": 239,
+                "w": 316
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img2.png": {
+            "frame": {
+                "h": 34,
+                "idx": 0,
+                "w": 44,
+                "x": 875,
+                "y": 318
+            },
+            "sourceSize": {
+                "h": 34,
+                "w": 44
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_dangqian.png": {
+            "frame": {
+                "h": 44,
+                "idx": 0,
+                "w": 234,
+                "x": 263,
+                "y": 581
+            },
+            "sourceSize": {
+                "h": 44,
+                "w": 234
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_daojishi2.png": {
+            "frame": {
+                "h": 72,
+                "idx": 0,
+                "w": 277,
+                "x": 317,
+                "y": 318
+            },
+            "sourceSize": {
+                "h": 72,
+                "w": 277
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_down.png": {
+            "frame": {
+                "h": 157,
+                "idx": 0,
+                "w": 962,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 157,
+                "w": 962
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_line.png": {
+            "frame": {
+                "h": 3,
+                "idx": 0,
+                "w": 354,
+                "x": 126,
+                "y": 668
+            },
+            "sourceSize": {
+                "h": 3,
+                "w": 354
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_pot.png": {
+            "frame": {
+                "h": 10,
+                "idx": 0,
+                "w": 10,
+                "x": 484,
+                "y": 527
+            },
+            "sourceSize": {
+                "h": 10,
+                "w": 10
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_top.png": {
+            "frame": {
+                "h": 48,
+                "idx": 0,
+                "w": 606,
+                "x": 317,
+                "y": 269
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 606
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_touxiang.png": {
+            "frame": {
+                "h": 60,
+                "idx": 0,
+                "w": 61,
+                "x": 963,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 60,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_touxianguang.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 66,
+                "x": 774,
+                "y": 527
+            },
+            "sourceSize": {
+                "h": 67,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_zhongjiangzuize.png": {
+            "frame": {
+                "h": 37,
+                "idx": 0,
+                "w": 181,
+                "x": 778,
+                "y": 229
+            },
+            "sourceSize": {
+                "h": 37,
+                "w": 181
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "shishile_line.png": {
+            "frame": {
+                "h": 4,
+                "idx": 0,
+                "w": 600,
+                "x": 391,
+                "y": 663
+            },
+            "sourceSize": {
+                "h": 4,
+                "w": 600
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_0.png": {
+            "frame": {
+                "h": 53,
+                "idx": 0,
+                "w": 29,
+                "x": 924,
+                "y": 267
+            },
+            "sourceSize": {
+                "h": 54,
+                "w": 29
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "t_benqi1.png": {
+            "frame": {
+                "h": 25,
+                "idx": 0,
+                "w": 140,
+                "x": 808,
+                "y": 454
+            },
+            "sourceSize": {
+                "h": 25,
+                "w": 140
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_benqi2.png": {
+            "frame": {
+                "h": 25,
+                "idx": 0,
+                "w": 140,
+                "x": 808,
+                "y": 480
+            },
+            "sourceSize": {
+                "h": 25,
+                "w": 140
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_dangqian.png": {
+            "frame": {
+                "h": 23,
+                "idx": 0,
+                "w": 93,
+                "x": 126,
+                "y": 635
+            },
+            "sourceSize": {
+                "h": 30,
+                "w": 103
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 3
+            }
+        },
+        "t_daojishi.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 100,
+                "x": 391,
+                "y": 626
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 100
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_sanpai.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 64,
+                "x": 959,
+                "y": 333
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 64
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_shangqi.png": {
+            "frame": {
+                "h": 25,
+                "idx": 0,
+                "w": 89,
+                "x": 394,
+                "y": 527
+            },
+            "sourceSize": {
+                "h": 25,
+                "w": 89
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_shangqi2.png": {
+            "frame": {
+                "h": 25,
+                "idx": 0,
+                "w": 140,
+                "x": 818,
+                "y": 386
+            },
+            "sourceSize": {
+                "h": 25,
+                "w": 140
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_yitouzhu_AAA.png": {
+            "frame": {
+                "h": 28,
+                "idx": 0,
+                "w": 77,
+                "x": 818,
+                "y": 412
+            },
+            "sourceSize": {
+                "h": 28,
+                "w": 77
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_yitouzhu_baozi.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 64,
+                "x": 960,
+                "y": 229
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 64
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_yitouzhu_duizi.png": {
+            "frame": {
+                "h": 31,
+                "idx": 0,
+                "w": 65,
+                "x": 959,
+                "y": 366
+            },
+            "sourceSize": {
+                "h": 31,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_yitouzhu_jinhua.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 65,
+                "x": 896,
+                "y": 412
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 66
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "t_yitouzhu_shunjin.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 65,
+                "x": 959,
+                "y": 267
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_yitouzhu_shunzi.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 65,
+                "x": 959,
+                "y": 300
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_zuijin.png": {
+            "frame": {
+                "h": 56,
+                "idx": 0,
+                "w": 162,
+                "x": 773,
+                "y": 595
+            },
+            "sourceSize": {
+                "h": 56,
+                "w": 162
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_zuijinAAA.png": {
+            "frame": {
+                "h": 37,
+                "idx": 0,
+                "w": 125,
+                "x": 0,
+                "y": 635
+            },
+            "sourceSize": {
+                "h": 37,
+                "w": 126
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_zuijinbaozi.png": {
+            "frame": {
+                "h": 38,
+                "idx": 0,
+                "w": 127,
+                "x": 263,
+                "y": 626
+            },
+            "sourceSize": {
+                "h": 38,
+                "w": 128
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "title_jinrizhongjiang.png": {
+            "frame": {
+                "h": 53,
+                "idx": 0,
+                "w": 262,
+                "x": 0,
+                "y": 581
+            },
+            "sourceSize": {
+                "h": 54,
+                "w": 264
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "title_shishile.png": {
+            "frame": {
+                "h": 182,
+                "idx": 0,
+                "w": 393,
+                "x": 0,
+                "y": 398
+            },
+            "sourceSize": {
+                "h": 184,
+                "w": 395
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "title_zoushitu.png": {
+            "frame": {
+                "h": 70,
+                "idx": 0,
+                "w": 186,
+                "x": 778,
+                "y": 158
+            },
+            "sourceSize": {
+                "h": 70,
+                "w": 188
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "ssl.png",
+        "prefix": "ssl/"
+    }
+}

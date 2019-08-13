@@ -1,0 +1,12 @@
+{
+	"1":{"id":1,"modId":401,"tempName":"drop_gold","itemType":1,"name":"金币","img":"img1.png"},
+	"2":{"id":2,"modId":401,"tempName":"drop_red","itemType":1,"name":"红钻","img":"img7.png"},
+	"3":{"id":3,"modId":401,"tempName":"drop_blue","itemType":1,"name":"蓝钻","img":"img6.png"},
+	"4":{"id":4,"modId":401,"tempName":"drop_purple","itemType":1,"name":"紫钻","img":"img8.png"},
+	"5":{"id":5,"modId":401,"tempName":"drop_rush","itemType":1,"name":"菊花","img":"img4.png"},
+	"6":{"id":6,"modId":401,"tempName":"drop_magnet","itemType":1,"name":"磁铁","img":"img3.png"},
+	"7":{"id":7,"modId":401,"tempName":"drop_luck","itemType":1,"name":"四叶草","img":"img2.png"},
+	"8":{"id":8,"modId":401,"tempName":"drop_double","itemType":1,"name":"紫蘑菇","img":"img2.png"},
+	"9":{"id":9,"modId":401,"tempName":"drop_cup","itemType":1,"name":"奖杯","img":"img5.png"}
+}
+

@@ -1,0 +1,93 @@
+{
+    "frames": {
+        "run_0.png": {
+            "frame": {
+                "h": 76,
+                "idx": 0,
+                "w": 34,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 100,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 12
+            }
+        },
+        "run_1.png": {
+            "frame": {
+                "h": 71,
+                "idx": 0,
+                "w": 30,
+                "x": 35,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 100,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "run_2.png": {
+            "frame": {
+                "h": 69,
+                "idx": 0,
+                "w": 36,
+                "x": 35,
+                "y": 72
+            },
+            "sourceSize": {
+                "h": 100,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 17
+            }
+        },
+        "run_3.png": {
+            "frame": {
+                "h": 67,
+                "idx": 0,
+                "w": 36,
+                "x": 66,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 100,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 18
+            }
+        },
+        "run_4.png": {
+            "frame": {
+                "h": 63,
+                "idx": 0,
+                "w": 31,
+                "x": 0,
+                "y": 77
+            },
+            "sourceSize": {
+                "h": 100,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 18
+            }
+        }
+    },
+    "meta": {
+        "image": "fan.png",
+        "prefix": "ani/fan/"
+    }
+}

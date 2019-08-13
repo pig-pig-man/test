@@ -1,0 +1,25 @@
+{
+    "frames": {
+        "board_fuli.png": {
+            "frame": {
+                "h": 669,
+                "idx": 0,
+                "w": 954,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 669,
+                "w": 954
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "外围.png",
+        "prefix": "zzzzzzz/外围/"
+    }
+}

@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='utf-8' />
+	<title>www.layabox.com</title>
+	<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'
+	/>
+	<meta name="renderer" content="webkit"/>
+	<meta name='apple-mobile-web-app-capable' content='yes' />
+	<meta name='full-screen' content='true' />
+	<meta name='x5-fullscreen' content='true' />
+	<meta name='360-fullscreen' content='true' />
+	<meta name="laya" screenorientation ="landscape"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<meta http-equiv='expires' content='0' />
+	<meta http-equiv="Cache-Control" content="no-siteapp"/>
+</head>
+
+<body>
+	<!--以下引用了常用类库，如果不使用，可以删除-->
+	
+    <!--核心包，封装了显示对象渲染，事件，时间管理，时间轴动画，缓动，消息交互,socket，本地存储，鼠标触摸，声音，加载，颜色滤镜，位图字体等-->
+	<script type="text/javascript" src="libs/laya.core.js"></script>
+	<!--提供了微信小游戏的适配-->
+	<script type="text/javascript" src="libs/laya.wxmini.js"></script>
+	<!--封装了webgl渲染管线，如果使用webgl渲染，可以在初始化时调用Laya.init(1000,800,laya.webgl.WebGL);-->
+    <script type="text/javascript" src="libs/laya.webgl.js"></script>
+	<!--是动画模块，包含了swf动画，骨骼动画等-->
+    <script type="text/javascript" src="libs/laya.ani.js"></script>
+	<!--包含更多webgl滤镜，比如外发光，阴影，模糊以及更多-->
+    <script type="text/javascript" src="libs/laya.filter.js"></script>
+	<!--封装了html动态排版功能-->
+    <script type="text/javascript" src="libs/laya.html.js"></script>
+	<!--粒子类库-->
+    <script type="text/javascript" src="libs/laya.particle.js"></script>
+	<!--提供tileMap解析支持-->
+    <script type="text/javascript" src="libs/laya.tiledmap.js"></script>
+	<!--提供了制作UI的各种组件实现-->
+    <script type="text/javascript" src="libs/laya.ui.js"></script>
+	<!-- protobuf -->
+	<script type="text/javascript" src="libs/protobuf.js"></script>
+	<script type="text/javascript" src="libs/protobuf-bundles.js"></script>
+	<!-- 物理引擎matter.js -->
+	<!--用户自定义顺序文件添加到这里-->
+	<!--jsfile--Custom-->
+	<!--jsfile--Custom-->
+
+	<!--自定义的js(src文件夹下)文件自动添加到下面jsfile模块标签里面里-->
+	<!--删除标签，ide不会自动添加js文件，请谨慎操作-->
+	<!--jsfile--startTag-->
+	<script src="js/utils/Mlog.js"></script>
+	<script src="js/module/login/proxy/LoginGE.js"></script>
+	<script src="js/module/hitmole/Mole.js"></script>
+	<script src="js/frame/WebSocket.js"></script>
+	<script src="js/frame/Socket.js"></script>
+	<script src="js/frame/GUI.js"></script>
+	<script src="js/frame/GSocket.js"></script>
+	<script src="js/frame/GRes.js"></script>
+	<script src="js/frame/GMode.js"></script>
+	<script src="js/frame/GFrame.js"></script>
+	<script src="js/frame/GEvent.js"></script>
+	<script src="js/frame/GData.js"></script>
+	<script src="js/component/ScaleButton.js"></script>
+	<script src="js/frame/BaseMode.js"></script>
+	<script src="js/frame/BaseUI.js"></script>
+	<script src="js/frame/MyEvent.js"></script>
+	<script src="js/module/activity/Activity.js"></script>
+	<script src="js/module/activity/ActivityUI.js"></script>
+	<script src="js/module/bank/Bank.js"></script>
+	<script src="js/module/bank/BankUI.js"></script>
+	<script src="js/module/bcbm/Bcbm.js"></script>
+	<script src="js/module/bcbm/BcbmUI.js"></script>
+	<script src="js/module/bjl/Bjl.js"></script>
+	<script src="js/module/bjl/BjlUI.js"></script>
+	<script src="js/module/brnn/Brnn.js"></script>
+	<script src="js/module/brnn/BrnnUI.js"></script>
+	<script src="js/module/brsz/Brsz.js"></script>
+	<script src="js/module/brsz/BrszUI.js"></script>
+	<script src="js/ui/layaUI.max.all.js"></script>
+	<script src="js/module/common/Card.js"></script>
+	<script src="js/module/common/Common.js"></script>
+	<script src="js/module/common/TipBar.js"></script>
+	<script src="js/module/common/TipLogoutUI.js"></script>
+	<script src="js/module/common/TipWndUI.js"></script>
+	<script src="js/module/customer/Customer.js"></script>
+	<script src="js/module/customer/CustomerUI.js"></script>
+	<script src="js/module/customer/MsgItem.js"></script>
+	<script src="js/module/customer/QuestionItem.js"></script>
+	<script src="js/module/debug/Debug.js"></script>
+	<script src="js/module/debug/DebugUI.js"></script>
+	<script src="js/module/feedback/FeedBack.js"></script>
+	<script src="js/module/feedback/FeedBackUI.js"></script>
+	<script src="js/module/feedback/FeedItem.js"></script>
+	<script src="js/module/gift/Gift.js"></script>
+	<script src="js/module/gift/GiftUI.js"></script>
+	<script src="js/module/hhdz/Hhdz.js"></script>
+	<script src="js/module/hhdz/HhdzUI.js"></script>
+	<script src="js/module/hitmole/GameOverUI.js"></script>
+	<script src="js/module/hitmole/GameStartUI.js"></script>
+	<script src="js/module/hitmole/GameViewUI.js"></script>
+	<script src="js/module/hitmole/HammerUI.js"></script>
+	<script src="js/module/hitmole/HitMole.js"></script>
+	<script src="js/module/jxlw/Jxlw.js"></script>
+	<script src="js/module/jxlw/JxlwUI.js"></script>
+	<script src="js/module/login/Login.js"></script>
+	<script src="js/module/login/LoginUI.js"></script>
+	<script src="js/module/login/proxy/LoginProxy.js"></script>
+	<script src="js/module/menu/Menu.js"></script>
+	<script src="js/module/menu/MenuUI.js"></script>
+	<script src="js/module/menu/SelectSceneUI.js"></script>
+	<script src="js/module/playerInfo/PlayerInfo.js"></script>
+	<script src="js/module/playerInfo/PlayerInfoUI.js"></script>
+	<script src="js/module/popup/PopUp.js"></script>
+	<script src="js/module/popup/PopUpUI.js"></script>
+	<script src="js/module/rank/Rank.js"></script>
+	<script src="js/module/rank/RankItem.js"></script>
+	<script src="js/module/rank/RankUI.js"></script>
+	<script src="js/module/rank/VipBar.js"></script>
+	<script src="js/module/setting/Setting.js"></script>
+	<script src="js/module/setting/SettingUI.js"></script>
+	<script src="js/module/shop/Shop.js"></script>
+	<script src="js/module/shop/ShopUI.js"></script>
+	<script src="js/module/vip/Vip.js"></script>
+	<script src="js/module/vip/VipBar.js"></script>
+	<script src="js/module/vip/VipUI.js"></script>
+	<script src="js/module/welfare/Welfare.js"></script>
+	<script src="js/module/welfare/WelfareUI.js"></script>
+	<script src="js/view/hitmole/GameStart.js"></script>
+	<!--jsfile--endTag-->
+
+	<!--启动类添加到这里-->
+	<!--jsfile--Main-->
+	<script src="js/Cac.js"></script>
+	<!--jsfile--Main-->
+</body>
+
+</html>

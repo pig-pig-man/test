@@ -1,0 +1,204 @@
+{
+	"1": {
+		"url": [{ "url": "res/ani/monster/monster_1/monster_1.json", "type": "atlas" }],
+		"tempArr": [{
+				"tempUrl": "monster_1/run_",
+				"tempName": "monster_1_run",
+				"frameLen": 12,
+				"width": 90,
+				"height": 90
+			},
+			{
+				"tempUrl": "monster_1/hurt_",
+				"tempName": "monster_1_hurt",
+				"frameLen": 5,
+				"width": 90,
+				"height": 90
+			}
+		]
+	},
+	"2": {
+		"url": [{ "url": "res/ani/monster/monster_2/monster_2.json", "type": "atlas" }],
+		"tempArr": [{
+				"tempUrl": "monster_2/run_",
+				"tempName": "monster_2_run",
+				"frameLen": 12,
+				"width": 90,
+				"height": 90
+			},
+			{
+				"tempUrl": "monster_2/hurt_",
+				"tempName": "monster_2_hurt",
+				"frameLen": 5,
+				"width": 90,
+				"height": 90
+			}
+		]
+	},
+	"3": {
+		"url": [{ "url": "res/ani/monster/monster_3/monster_3.json", "type": "atlas" }],
+		"tempArr": [{
+				"tempUrl": "monster_3/run_",
+				"tempName": "monster_3_run",
+				"frameLen": 12,
+				"width": 90,
+				"height": 90
+			},
+			{
+				"tempUrl": "monster_3/hurt_",
+				"tempName": "monster_3_hurt",
+				"frameLen": 5,
+				"width": 90,
+				"height": 90
+			}
+		]
+	},
+	"4": {
+		"url": [{ "url": "res/ani/monster/monster_4/monster_4.json", "type": "atlas" }],
+		"tempArr": [{
+				"tempUrl": "monster_4/run_",
+				"tempName": "monster_4_run",
+				"frameLen": 12,
+				"width": 90,
+				"height": 90
+			},
+			{
+				"tempUrl": "monster_4/hurt_",
+				"tempName": "monster_4_hurt",
+				"frameLen": 5,
+				"width": 90,
+				"height": 90
+			}
+		]
+	},
+	"5": {
+		"url": [{ "url": "res/ani/monster/monster_5/monster_5.json", "type": "atlas" }],
+		"tempArr": [{
+				"tempUrl": "monster_5/run_",
+				"tempName": "monster_5_run",
+				"frameLen": 12,
+				"width": 90,
+				"height": 90
+			},
+			{
+				"tempUrl": "monster_5/hurt_",
+				"tempName": "monster_5_hurt",
+				"frameLen": 5,
+				"width": 90,
+				"height": 90
+			}
+		]
+	},
+	"201": {
+		"url": [{ "url": "res/ani/monster/monster_201/monster_201.json", "type": "atlas" }],
+		"tempArr": [{
+				"tempUrl": "monster_201/run_",
+				"tempName": "monster_201_run",
+				"frameLen": 1,
+				"width": 80,
+				"height": 80
+			}
+		]
+	},
+	"101": {
+		"url": [{ "url": "res/ani/monster/monster_101/monster_101.png", "type": "image" }, { "url": "res/ani/monster/monster_101/monster_101.sk", "type": "arraybuffer" }],
+		"tempArr": []
+	},
+	"301": {
+		"url": [{ "url": "res/ani/monster/monster_301/monster_301.json", "type": "atlas" }],
+		"tempArr": [{
+			"tempUrl": "monster_301/run_",
+			"tempName": "missile",
+			"frameLen": 9,
+			"width": 90,
+			"height": 90
+		}]
+	},
+	"401": {
+		"url": [{ "url": "res/ani/prop/prop.json", "type": "atlas" }],
+		"tempArr": [{
+				"tempUrl": "prop/gold_",
+				"tempName": "drop_gold",
+				"frameLen": 7,
+				"width": 50,
+				"height": 50
+			},
+			{
+				"tempUrl": "prop/blue_",
+				"tempName": "drop_blue",
+				"frameLen": 8,
+				"width": 34,
+				"height": 50
+			},
+			{
+				"tempUrl": "prop/red_",
+				"tempName": "drop_red",
+				"frameLen": 8,
+				"width": 34,
+				"height": 50
+			},
+			{
+				"tempUrl": "prop/purple_",
+				"tempName": "drop_purple",
+				"frameLen": 8,
+				"width": 34,
+				"height": 50
+			},
+			{
+				"tempUrl": "prop/double_",
+				"tempName": "drop_double",
+				"frameLen": 1,
+				"width": 52,
+				"height": 52
+			},
+			{
+				"tempUrl": "prop/magnet_",
+				"tempName": "drop_magnet",
+				"frameLen": 1,
+				"width": 52,
+				"height": 52
+			},
+			{
+				"tempUrl": "prop/luck_",
+				"tempName": "drop_luck",
+				"frameLen": 1,
+				"width": 52,
+				"height": 52
+			},
+			{
+				"tempUrl": "prop/rush_",
+				"tempName": "drop_rush",
+				"frameLen": 1,
+				"width": 52,
+				"height": 52
+			},
+			{
+				"tempUrl": "prop/cup_",
+				"tempName": "drop_cup",
+				"frameLen": 1,
+				"width": 45,
+				"height": 41
+			}
+		]
+	},
+	"402": {
+		"url": [{ "url": "res/ani/smoke/smoke.json", "type": "atlas" }],
+		"tempArr": [{
+			"tempUrl": "smoke/smoke_",
+			"tempName": "smoke",
+			"frameLen": 10,
+			"width": 400,
+			"height": 400
+		}]
+	},
+	"403": {
+		"url": [{ "url": "res/ani/rush/rush.json", "type": "atlas" }],
+		"tempArr": [{
+			"tempUrl": "rush/rush_",
+			"tempName": "rush",
+			"frameLen": 4,
+			"width": 113,
+			"height": 219
+		}]
+	}
+}

@@ -1,0 +1,195 @@
+{
+    "frames": {
+        "btn_caifu.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 231,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 231
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_caifu2.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 231,
+                "x": 0,
+                "y": 48
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 231
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_meiri.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 230,
+                "x": 0,
+                "y": 192
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 230
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_meiri2.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 230,
+                "x": 0,
+                "y": 240
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 230
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_meizhou.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 231,
+                "x": 0,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 231
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_meizhou2.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 231,
+                "x": 0,
+                "y": 144
+            },
+            "sourceSize": {
+                "h": 48,
+                "w": 231
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img1.png": {
+            "frame": {
+                "h": 33,
+                "idx": 0,
+                "w": 161,
+                "x": 0,
+                "y": 288
+            },
+            "sourceSize": {
+                "h": 33,
+                "w": 161
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_rank1.png": {
+            "frame": {
+                "h": 56,
+                "idx": 0,
+                "w": 83,
+                "x": 232,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 57,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "img_rank2.png": {
+            "frame": {
+                "h": 53,
+                "idx": 0,
+                "w": 83,
+                "x": 232,
+                "y": 57
+            },
+            "sourceSize": {
+                "h": 55,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "img_rank3.png": {
+            "frame": {
+                "h": 51,
+                "idx": 0,
+                "w": 83,
+                "x": 232,
+                "y": 111
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "t_paihangbang.png": {
+            "frame": {
+                "h": 34,
+                "idx": 0,
+                "w": 106,
+                "x": 162,
+                "y": 288
+            },
+            "sourceSize": {
+                "h": 34,
+                "w": 106
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "rank.png",
+        "prefix": "rank/"
+    }
+}

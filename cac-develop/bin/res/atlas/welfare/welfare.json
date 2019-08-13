@@ -1,0 +1,416 @@
+{
+    "frames": {
+        "bg_qiandao.png": {
+            "frame": {
+                "h": 74,
+                "idx": 0,
+                "w": 46,
+                "x": 711,
+                "y": 90
+            },
+            "sourceSize": {
+                "h": 74,
+                "w": 46
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_moneytree1.png": {
+            "frame": {
+                "h": 82,
+                "idx": 0,
+                "w": 149,
+                "x": 561,
+                "y": 90
+            },
+            "sourceSize": {
+                "h": 82,
+                "w": 149
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_moneytree2.png": {
+            "frame": {
+                "h": 89,
+                "idx": 0,
+                "w": 158,
+                "x": 566,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 89,
+                "w": 158
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_qiandao1.png": {
+            "frame": {
+                "h": 82,
+                "idx": 0,
+                "w": 149,
+                "x": 566,
+                "y": 173
+            },
+            "sourceSize": {
+                "h": 82,
+                "w": 149
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_qiandao2.png": {
+            "frame": {
+                "h": 89,
+                "idx": 0,
+                "w": 158,
+                "x": 402,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 89,
+                "w": 158
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_yueka1.png": {
+            "frame": {
+                "h": 82,
+                "idx": 0,
+                "w": 149,
+                "x": 566,
+                "y": 256
+            },
+            "sourceSize": {
+                "h": 82,
+                "w": 149
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_yueka2.png": {
+            "frame": {
+                "h": 89,
+                "idx": 0,
+                "w": 158,
+                "x": 402,
+                "y": 90
+            },
+            "sourceSize": {
+                "h": 89,
+                "w": 158
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_baiyin.png": {
+            "frame": {
+                "h": 202,
+                "idx": 0,
+                "w": 180,
+                "x": 0,
+                "y": 230
+            },
+            "sourceSize": {
+                "h": 202,
+                "w": 180
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_box1.png": {
+            "frame": {
+                "h": 152,
+                "idx": 0,
+                "w": 203,
+                "x": 362,
+                "y": 203
+            },
+            "sourceSize": {
+                "h": 152,
+                "w": 203
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_box2.png": {
+            "frame": {
+                "h": 229,
+                "idx": 0,
+                "w": 220,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 229,
+                "w": 220
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_buling.png": {
+            "frame": {
+                "h": 118,
+                "idx": 0,
+                "w": 118,
+                "x": 511,
+                "y": 356
+            },
+            "sourceSize": {
+                "h": 128,
+                "w": 128
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        "img_huangjin.png": {
+            "frame": {
+                "h": 202,
+                "idx": 0,
+                "w": 180,
+                "x": 181,
+                "y": 230
+            },
+            "sourceSize": {
+                "h": 202,
+                "w": 180
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_jb.png": {
+            "frame": {
+                "h": 88,
+                "idx": 0,
+                "w": 88,
+                "x": 630,
+                "y": 339
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 110
+            },
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 11
+            }
+        },
+        "img_jb1.png": {
+            "frame": {
+                "h": 45,
+                "idx": 0,
+                "w": 50,
+                "x": 704,
+                "y": 463
+            },
+            "sourceSize": {
+                "h": 45,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 0
+            }
+        },
+        "img_jb2.png": {
+            "frame": {
+                "h": 45,
+                "idx": 0,
+                "w": 65,
+                "x": 214,
+                "y": 433
+            },
+            "sourceSize": {
+                "h": 45,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_jb3.png": {
+            "frame": {
+                "h": 53,
+                "idx": 0,
+                "w": 65,
+                "x": 148,
+                "y": 433
+            },
+            "sourceSize": {
+                "h": 53,
+                "w": 65
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_jb4.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 68,
+                "x": 79,
+                "y": 433
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 68
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_jb5.png": {
+            "frame": {
+                "h": 62,
+                "idx": 0,
+                "w": 78,
+                "x": 0,
+                "y": 433
+            },
+            "sourceSize": {
+                "h": 62,
+                "w": 78
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_starline.png": {
+            "frame": {
+                "h": 13,
+                "idx": 0,
+                "w": 240,
+                "x": 0,
+                "y": 496
+            },
+            "sourceSize": {
+                "h": 13,
+                "w": 240
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_zhizun.png": {
+            "frame": {
+                "h": 202,
+                "idx": 0,
+                "w": 180,
+                "x": 221,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 202,
+                "w": 180
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_play.png": {
+            "frame": {
+                "h": 148,
+                "idx": 0,
+                "w": 148,
+                "x": 362,
+                "y": 356
+            },
+            "sourceSize": {
+                "h": 148,
+                "w": 148
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_buy.png": {
+            "frame": {
+                "h": 19,
+                "idx": 0,
+                "w": 64,
+                "x": 402,
+                "y": 180
+            },
+            "sourceSize": {
+                "h": 19,
+                "w": 64
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_daily.png": {
+            "frame": {
+                "h": 34,
+                "idx": 0,
+                "w": 192,
+                "x": 511,
+                "y": 475
+            },
+            "sourceSize": {
+                "h": 34,
+                "w": 192
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_lingqu.png": {
+            "frame": {
+                "h": 34,
+                "idx": 0,
+                "w": 127,
+                "x": 630,
+                "y": 428
+            },
+            "sourceSize": {
+                "h": 34,
+                "w": 127
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "welfare.png",
+        "prefix": "welfare/"
+    }
+}

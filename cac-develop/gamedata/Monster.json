@@ -1,0 +1,11 @@
+{
+	"1":{"monsterid":1,"monsterType":1,"name":"小怪1","modId":1,"scale":1000,"radius":60},
+	"2":{"monsterid":2,"monsterType":1,"name":"小怪2","modId":2,"scale":1000,"radius":60},
+	"3":{"monsterid":3,"monsterType":1,"name":"小怪3","modId":3,"scale":1000,"radius":60},
+	"4":{"monsterid":4,"monsterType":1,"name":"小怪4","modId":4,"scale":1000,"radius":60},
+	"5":{"monsterid":5,"monsterType":1,"name":"小怪5","modId":5,"scale":1000,"radius":60},
+	"101":{"monsterid":101,"monsterType":4,"name":"BOSS1","modId":101,"scale":1000,"radius":60},
+	"201":{"monsterid":201,"monsterType":2,"name":"elite","modId":201,"scale":1000,"radius":60},
+	"301":{"monsterid":301,"monsterType":3,"name":"missile","modId":301,"scale":1000,"radius":60}
+}
+

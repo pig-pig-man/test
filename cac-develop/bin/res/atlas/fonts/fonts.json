@@ -1,0 +1,161 @@
+{
+    "frames": {
+        "font_01.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 215,
+                "x": 0,
+                "y": 98
+            },
+            "sourceSize": {
+                "h": 22,
+                "w": 220
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 1
+            }
+        },
+        "font_02.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 215,
+                "x": 0,
+                "y": 119
+            },
+            "sourceSize": {
+                "h": 22,
+                "w": 220
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 1
+            }
+        },
+        "font_03.png": {
+            "frame": {
+                "h": 29,
+                "idx": 0,
+                "w": 299,
+                "x": 0,
+                "y": 38
+            },
+            "sourceSize": {
+                "h": 29,
+                "w": 300
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "font_04.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 175,
+                "x": 0,
+                "y": 140
+            },
+            "sourceSize": {
+                "h": 20,
+                "w": 176
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "font_05.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 160,
+                "x": 176,
+                "y": 161
+            },
+            "sourceSize": {
+                "h": 20,
+                "w": 160
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "font_06.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 175,
+                "x": 176,
+                "y": 140
+            },
+            "sourceSize": {
+                "h": 20,
+                "w": 176
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "font_07.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 175,
+                "x": 0,
+                "y": 161
+            },
+            "sourceSize": {
+                "h": 20,
+                "w": 176
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "font_08.png": {
+            "frame": {
+                "h": 29,
+                "idx": 0,
+                "w": 300,
+                "x": 0,
+                "y": 68
+            },
+            "sourceSize": {
+                "h": 29,
+                "w": 300
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "font_09.png": {
+            "frame": {
+                "h": 37,
+                "idx": 0,
+                "w": 321,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 37,
+                "w": 324
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "fonts.png",
+        "prefix": "fonts/"
+    }
+}

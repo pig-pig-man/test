@@ -1,0 +1,144 @@
+{
+    "frames": {
+        "hslider$bar.png": {
+            "frame": {
+                "h": 102,
+                "idx": 0,
+                "w": 48,
+                "x": 122,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 102,
+                "w": 48
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "hslider.png": {
+            "frame": {
+                "h": 57,
+                "idx": 0,
+                "w": 57,
+                "x": 132,
+                "y": 103
+            },
+            "sourceSize": {
+                "h": 57,
+                "w": 57
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "progress$bar.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 36,
+                "x": 71,
+                "y": 138
+            },
+            "sourceSize": {
+                "h": 20,
+                "w": 37
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "progress.png": {
+            "frame": {
+                "h": 20,
+                "idx": 0,
+                "w": 37,
+                "x": 71,
+                "y": 159
+            },
+            "sourceSize": {
+                "h": 20,
+                "w": 37
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_qiehuan.png": {
+            "frame": {
+                "h": 34,
+                "idx": 0,
+                "w": 131,
+                "x": 0,
+                "y": 103
+            },
+            "sourceSize": {
+                "h": 34,
+                "w": 131
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_shengyin.png": {
+            "frame": {
+                "h": 54,
+                "idx": 0,
+                "w": 120,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 54,
+                "w": 120
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_yinxiao.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 121,
+                "x": 0,
+                "y": 55
+            },
+            "sourceSize": {
+                "h": 47,
+                "w": 121
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "title_shezhi.png": {
+            "frame": {
+                "h": 34,
+                "idx": 0,
+                "w": 70,
+                "x": 0,
+                "y": 138
+            },
+            "sourceSize": {
+                "h": 34,
+                "w": 70
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "setting.png",
+        "prefix": "setting/"
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "frames": {
+        "btn_lianxi1.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 232,
+                "x": 128,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 47,
+                "w": 232
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_lianxi2.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 232,
+                "x": 128,
+                "y": 48
+            },
+            "sourceSize": {
+                "h": 47,
+                "w": 232
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_n.png": {
+            "frame": {
+                "h": 40,
+                "idx": 0,
+                "w": 40,
+                "x": 719,
+                "y": 95
+            },
+            "sourceSize": {
+                "h": 40,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_wenti.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 232,
+                "x": 128,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 47,
+                "w": 232
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_wenti2.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 232,
+                "x": 361,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 47,
+                "w": 232
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_xiaoxi1.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 232,
+                "x": 594,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 47,
+                "w": 232
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_xiaoxi2.png": {
+            "frame": {
+                "h": 47,
+                "idx": 0,
+                "w": 232,
+                "x": 361,
+                "y": 48
+            },
+            "sourceSize": {
+                "h": 47,
+                "w": 232
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "btn_y.png": {
+            "frame": {
+                "h": 32,
+                "idx": 0,
+                "w": 34,
+                "x": 760,
+                "y": 95
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 34
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "icon_mail.png": {
+            "frame": {
+                "h": 46,
+                "idx": 0,
+                "w": 60,
+                "x": 704,
+                "y": 48
+            },
+            "sourceSize": {
+                "h": 46,
+                "w": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "icon_qq.png": {
+            "frame": {
+                "h": 149,
+                "idx": 0,
+                "w": 127,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 149,
+                "w": 127
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "img_downline.png": {
+            "frame": {
+                "h": 12,
+                "idx": 0,
+                "w": 1010,
+                "x": 0,
+                "y": 150
+            },
+            "sourceSize": {
+                "h": 12,
+                "w": 1010
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_copyqq.png": {
+            "frame": {
+                "h": 28,
+                "idx": 0,
+                "w": 212,
+                "x": 361,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 28,
+                "w": 212
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_delete.png": {
+            "frame": {
+                "h": 28,
+                "idx": 0,
+                "w": 109,
+                "x": 594,
+                "y": 48
+            },
+            "sourceSize": {
+                "h": 28,
+                "w": 109
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "t_kefu.png": {
+            "frame": {
+                "h": 34,
+                "idx": 0,
+                "w": 144,
+                "x": 574,
+                "y": 96
+            },
+            "sourceSize": {
+                "h": 34,
+                "w": 144
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "customer.png",
+        "prefix": "customer/"
+    }
+}

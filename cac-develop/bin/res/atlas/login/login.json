@@ -1,0 +1,144 @@
+{
+    "frames": {
+        "new_bg_shadow.png": {
+            "frame": {
+                "h": 109,
+                "idx": 0,
+                "w": 17,
+                "x": 326,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 109,
+                "w": 17
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "new_img_logo.png": {
+            "frame": {
+                "h": 79,
+                "idx": 0,
+                "w": 217,
+                "x": 0,
+                "y": 258
+            },
+            "sourceSize": {
+                "h": 79,
+                "w": 217
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_choose1.png": {
+            "frame": {
+                "h": 37,
+                "idx": 0,
+                "w": 34,
+                "x": 218,
+                "y": 288
+            },
+            "sourceSize": {
+                "h": 37,
+                "w": 34
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_choose2.png": {
+            "frame": {
+                "h": 22,
+                "idx": 0,
+                "w": 23,
+                "x": 218,
+                "y": 326
+            },
+            "sourceSize": {
+                "h": 22,
+                "w": 23
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_kefu.png": {
+            "frame": {
+                "h": 29,
+                "idx": 0,
+                "w": 107,
+                "x": 218,
+                "y": 258
+            },
+            "sourceSize": {
+                "h": 29,
+                "w": 107
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_number.png": {
+            "frame": {
+                "h": 85,
+                "idx": 0,
+                "w": 263,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 85,
+                "w": 263
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_phone.png": {
+            "frame": {
+                "h": 85,
+                "idx": 0,
+                "w": 263,
+                "x": 0,
+                "y": 86
+            },
+            "sourceSize": {
+                "h": 85,
+                "w": 263
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sbtn_visitor.png": {
+            "frame": {
+                "h": 85,
+                "idx": 0,
+                "w": 263,
+                "x": 0,
+                "y": 172
+            },
+            "sourceSize": {
+                "h": 85,
+                "w": 263
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "login.png",
+        "prefix": "login/"
+    }
+}
